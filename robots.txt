@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nickapea.github.io/indexsite-aiyouxi-com-cn/sitemap.xml
